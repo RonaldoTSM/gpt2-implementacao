@@ -2,6 +2,8 @@
 
 Disciplina: LLM, CESAR School
 
+Código-fonte: https://github.com/RonaldoTSM/gpt2-implementacao
+
 Referências: material das Aulas 1, 2, 3, 5, 6 e 7 e Lab 1; vídeo *"Let's reproduce GPT-2 (124M)"* (Andrej Karpathy) e repositórios `karpathy/nanoGPT` / `karpathy/build-nanogpt`
 
 ---
